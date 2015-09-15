@@ -3,6 +3,7 @@
 
 > [shaun@shaunrob.com](mailto:shaun@shaunrob.com)
 > (301) 956-0110
+> Washington, DC
 
 ------
 
@@ -10,7 +11,7 @@
 
 1. Clojure(script)
 1. Datomic
-1. Ruby on Rails
+1. Ruby (+ Rails)
 1. PHP (Wordpress)
 1. HTML 5 / Hiccup / Haml / Jade 
 1. CSS 3 / Sass
@@ -27,14 +28,14 @@
 	Built 18 products in 23 months with Clojure, Clojurescript, Datomic, Onyx stack.
 	Recruited, trained, & led engineering team.
 	Designed and implemented screen-scraping system, data pipeline and realtime front-end applications.
-	Applied concurrency, parallelism and distribution to data and processing loads.
+	Applied concurrency, parallelism and distribution to optimize data and processing loads.
 	Architected company's systems to support rapidly evolving business pitch and product positioning(s).
 	Packaged and demoed company technology and software assets to interested VCs and acquirers.
 	**Technical Environment** Clojure, Clojurescript, Datomic, Onyx, Postgres, Node.js, Python, Salesforce.
 
 **ThinTix** *Founder* __2013__
 	Architected and implemented a paperless box office and event ticketing system.
-	Designed product to optimize profitability, visibility and decision making for small event businesses and clubs.
+	Designed product to optimize profitability and inform decision making for small event businesses.
 	Significant focus on top-notch UX and UI to maximize club profitability. 
 	Processed $1.3 million in PCI-compliant credit card payments in 18 months; 65k tickets checked in.
 	**Technical Environment** Ruby on Rails, Sass, Haml, Postgres, Heroku, Angular.js, Coffeescript.
@@ -62,7 +63,6 @@
 	**Technical Environment** LAMP, Sharepoint, Basecamp, Heroku, Office 365.
 
 	
-	
 ------
 
 ### Projects
@@ -83,7 +83,7 @@
 
 * **Teal Center**
 	Full site design, info architecture, front-end development and back-end CMS.
-	[tealcenter.com](tealcenter.com)
+	[tealcenter.com](http://tealcenter.com)
 
 
 ------
